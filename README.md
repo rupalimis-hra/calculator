@@ -1,2 +1,2 @@
 # calculator
-create fully functional calculator using html css and jaavascript
+create fully functional calculator using html css and javascript
